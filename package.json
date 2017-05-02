@@ -1,0 +1,24 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "Test node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekvichare/testNode.git"
+  },
+  "keywords": [
+    "Test",
+    "node"
+  ],
+  "author": "Abhishek Vichare",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/abhishekvichare/testNode/issues"
+  },
+  "homepage": "https://github.com/abhishekvichare/testNode#readme"
+}
